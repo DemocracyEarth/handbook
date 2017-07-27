@@ -3,7 +3,9 @@
 
 <img src='loomio-phone.png' class='img-right img-250px'>
 
-The software we build is [open source](http://github.com/DemcracyEarth/), and our organisation is open source too. This handbook is where we document how we run an efficient organisation without a hierarchy.
+Democracy Earth Foundation creates free, [open source](http://github.com/DemcracyEarth/) software for incorruptible governance and decision making.  Our liquid democracy platform {“Sovereign”} is built on blockchain technology that securely manages identity, voting, and representation, allowing people to make organizational decisions (locally, regionally, nationally and even globally) resulting in governance and decision-making - whether of nations, corporations or other organizations - that is secure, transparent, auditable and accountable. 
+
+The software we build is , and our organisation is open source too. This handbook is where we document how we run an efficient organisation without a hierarchy.
 
 We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [democracy.earth](https://Democracy.Earth).
 
